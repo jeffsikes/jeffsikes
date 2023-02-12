@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about continuous development cycles and devops
 - 🤔 I’m on Mastodon https://mastodon.social/@box464
 - 💬 I'm on LinkedIn https://www.linkedin.com/in/jsikes/
-- 📫 How to reach me: https://www.box464.com
+- 📫 How to reach me: https://box464.com
 
 ## Advice to those new to programming
 Make many mistakes, have fun, and never stop learning.
